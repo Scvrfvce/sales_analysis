@@ -19,6 +19,7 @@ It enables quick insights into overall business performance and highlights top-p
 | File Name | Description |
 |------------|-------------|
 | `dashboard.png` | Image preview of the Sales Dashboard |
+| `Chocolate Sales.xlsx` | Source dataset used to build the dashboard |
 
 ---
 
