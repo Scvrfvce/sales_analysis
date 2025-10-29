@@ -1,4 +1,6 @@
 # 📊 Sales Dashboard Project
+This project presents an interactive sales performance dashboard that visualizes key business metrics, including sales trends, product revenue, and regional performance.
+It provides an at-a-glance view of business performance to support decision-making and highlight top-performing products and employees.
 
 ## 🖼️ Project Overview
 This project showcases an **interactive Sales Performance Dashboard** that visualizes key metrics such as sales trends, product revenue, employee performance, and regional sales distribution.  
